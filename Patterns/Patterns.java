@@ -98,7 +98,7 @@ public class Patterns{
             System.out.println();
         }
 
-        // Pattern 8 (Diamond Type)
+        // Pattern 8 (Diamond Pattern)
         // 1
         // 12
         // 123
@@ -119,7 +119,7 @@ public class Patterns{
             System.out.println();
         }
 
-        // Pattern 9 (Floyd Triangle)
+        // Pattern 9 (Floyd Triangle Pattern)
         // 1
         // 2 3
         // 4 5 6
