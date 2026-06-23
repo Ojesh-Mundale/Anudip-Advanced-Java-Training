@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.collections;
 
 import java.util.Collections;
 import java.util.Vector;

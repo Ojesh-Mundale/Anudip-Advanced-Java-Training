@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.collections;
 
 public class Employee implements Comparable<Employee>{
 	private int id;
