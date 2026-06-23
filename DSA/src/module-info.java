@@ -4,5 +4,5 @@
 /**
  * 
  */
-module JavaDSA {
+module DSA {
 }
